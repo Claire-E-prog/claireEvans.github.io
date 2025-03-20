@@ -1,2 +1,2 @@
-# claireEvans.github.io
+# Claire Evans
 ML Engineering Projects
